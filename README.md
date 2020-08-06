@@ -4,7 +4,6 @@
 
 - I'm currently learning everything
 
-<br />
 
 ### Languages and Tools:
 
