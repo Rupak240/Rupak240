@@ -1,8 +1,8 @@
-### Hi there, I'm Rupak
+### Hi there, I'm Rupak 😉
 
-## I'm a Student, Developer
+## I'm a Student, Engineer, Developer
 
-- I'm currently learning everything
+- ✔ I'm currently learning everything
 
 
 ### Languages and Tools:
