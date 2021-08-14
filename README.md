@@ -1,4 +1,4 @@
-### Hi there👋, I'm Rupak 😉
+### Hi there!👋, I'm Rupak😉
 
 ## I'm a Student, Engineer, Developer
 
